@@ -3,7 +3,7 @@ Repositorio para almacenar el ejercicio pureba de netby
 #Autor
 Santiago Morales
 
-#Base de Datos
+# Base de Datos
 1. Utilizar Sql Server en su ultima version Express y Sql Server Manager 2021
 #Script de generacion de base de datos
 IF DB_ID('InventoryDb') IS NULL
@@ -58,7 +58,7 @@ Backend
 2.SQL Server (Express o superior). Ejemplo local: SANTIAGO-PC\SQLEXPRESS.
 3. Permisos para crear la base InventoryDb y el esquema inventory.
 
-Frontend
+# Seccion Frontend
 1.Node.js 20.x (o ≥ 18.19).
 2.npm actualizado.
 3.Angular CLI 18 (npm i -g @angular/cli@18).
