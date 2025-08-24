@@ -105,5 +105,7 @@ var app = builder.Build();
 app.UseCors();
 
 #Capturas de pantalla de Product service
-
+<p align="center">
+  <img src="./imgs/10.png" width="960" alt="Inventario — banner">
+</p>
 
