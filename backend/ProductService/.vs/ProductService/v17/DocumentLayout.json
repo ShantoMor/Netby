@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\productservice\\productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\productservice\\productservice\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\productservice\\productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\productservice\\productservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\productservice\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD03C3C-1F7B-4C43-A3FC-0FE86DFD453B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:16:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\DTOs\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "ProductService\\DTOs\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\DTOs\\ProductDtos.cs",
+              "RelativeToolTip": "ProductService\\DTOs\\ProductDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:04:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:48:28.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Models\\Product.cs",
+              "RelativeToolTip": "ProductService\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:44:16.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\ProductService\\ProductService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:20:56.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

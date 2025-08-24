@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\clients\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\clients\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\dtos\\transactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\dtos\\transactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|c:\\users\\santi\\onedrive\\documentos\\netby\\backend\\transactionsservice\\transactionsservice\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E167D4-AC18-476E-B4C5-44C8F5A8379C}|TransactionsService\\TransactionsService.csproj|solutionrelative:transactionsservice\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\appsettings.json",
+              "RelativeDocumentMoniker": "TransactionsService\\appsettings.json",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\appsettings.json",
+              "RelativeToolTip": "TransactionsService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T22:23:55.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\Program.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Program.cs",
+              "RelativeToolTip": "TransactionsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:21:30.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "TransactionsService\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T22:20:48.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TransactionsService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:46:29.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsClient.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Clients\\ProductsClient.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\Clients\\ProductsClient.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Clients\\ProductsClient.cs",
+              "RelativeToolTip": "TransactionsService\\Clients\\ProductsClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:45:31.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDtos.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\DTOs\\TransactionDtos.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\DTOs\\TransactionDtos.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\DTOs\\TransactionDtos.cs",
+              "RelativeToolTip": "TransactionsService\\DTOs\\TransactionDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:42:32.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Entities\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\Entities\\InventoryTransaction.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Entities\\InventoryTransaction.cs",
+              "RelativeToolTip": "TransactionsService\\Entities\\InventoryTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:40:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Models\\TransactionType.cs",
+              "RelativeDocumentMoniker": "TransactionsService\\Models\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\netby\\backend\\TransactionsService\\TransactionsService\\Models\\TransactionType.cs",
+              "RelativeToolTip": "TransactionsService\\Models\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:38:29.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
