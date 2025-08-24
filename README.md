@@ -106,6 +106,15 @@ app.UseCors();
 
 #Capturas de pantalla de Product service
 <p align="center">
-  <img src="./imgs/10.png" width="960" alt="Inventario — banner">
+  <img src="./imgs/4.png" width="960" alt="Inventario — banner">
+</p>
+<p align="center">
+  <img src="./imgs/5.png" width="960" alt="Inventario — banner">
+</p>
+<p align="center">
+  <img src="./imgs/6.png" width="960" alt="Inventario — banner">
+</p>
+<p align="center">
+  <img src="./imgs/7.png" width="960" alt="Inventario — banner">
 </p>
 
