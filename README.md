@@ -68,7 +68,7 @@ Products.Api → http://localhost:5293
 Transactions.Api → http://localhost:5085
 Frontend → http://localhost:4200
 
-#Confuguracion y Ejecucion del backend (confugurar server y password para la conexion, en mi caso el password es "netby" y el usuario es sa por default para Sql server)
+# Confuguracion y Ejecucion del backend (confugurar server y password para la conexion, en mi caso el password es "netby" y el usuario es sa por default para Sql server)
 Product service
 {
   "ConnectionStrings": {
@@ -90,7 +90,7 @@ Transaction service
   "AllowedHosts": "*"
 }
 
- #Habilitar CORS
+ # Habilitar CORS
  Dentro de  los archivos Program.cs de cada servicio
  
 builder.Services.AddCors(o =>
@@ -106,5 +106,4 @@ app.UseCors();
 
 #Capturas de pantalla de Product service
 
-![Uploading 1.png…]()
 
